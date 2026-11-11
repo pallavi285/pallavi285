@@ -95,7 +95,7 @@ An application that allows users to interact with PDF documents and retrieve rel
 - **GitHub (Main):** [@24f2004842-PallaviUnuri](https://github.com/24f2004842-PallaviUnuri)
 - **GitHub (Personal):** [@pallavi285](https://github.com/pallavi285)
 - **YouTube:** [My YouTube Channel](YOUR_YOUTUBE_CHANNEL_LINK)
-- **Email:** 24f2004842@study.iitm.ac.in
+- **Email:** 24f2004842@ds.study.iitm.ac.in
 
 ---
 
